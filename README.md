@@ -31,6 +31,8 @@
 ---
 
 ## 🛠️ Project Structure
+
+```plaintext
 timeblocks/
 ├── src/                    # SvelteKit app
 │   ├── routes/             # Routes for calendar, auth, etc.
